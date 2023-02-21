@@ -16,4 +16,7 @@ This enables users to run the program interactively on the internet.
 * handles edge cases such as empty or not enough input from the user to generate personalized recommendation
 
 # ⭐️
+
+<img width="963" alt="Screen Shot 2023-02-20 at 10 50 59 PM" src="https://user-images.githubusercontent.com/106271925/220245451-8527f36e-cfe8-4f17-99b4-b033df1872ba.png">
+
 The project is available at https://www.dukelearntoprogram.com//capstone/recommender.php?id=ol91juSEZaDmns
